@@ -4,7 +4,7 @@
 #
 Name     : golang-github-docker-docker
 Version  : c3533d58c36835c9560e859f09f15dbce82c3ac1
-Release  : 4
+Release  : 5
 URL      : https://github.com/docker/docker/archive/c3533d58c36835c9560e859f09f15dbce82c3ac1.tar.gz
 Source0  : https://github.com/docker/docker/archive/c3533d58c36835c9560e859f09f15dbce82c3ac1.tar.gz
 Summary  : The open-source application container engine
